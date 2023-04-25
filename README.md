@@ -1,6 +1,6 @@
 ## [ECE @NTUA](https://www.ece.ntua.gr/en/undergraduate/info) [Artificial Intelligence](https://www.ece.ntua.gr/en/undergraduate/courses/3287)
 
-## First Laboratory exercise description:
+## First laboratory exercise description:
 The target of this laboratory exercise is the deployment of searching alogrithms and best path discovery in N * N mazes.
 
 ## Environment of development:
