@@ -1,7 +1,7 @@
 ## [ECE @NTUA](https://www.ece.ntua.gr/en/undergraduate/info) [Artificial Intelligence](https://www.ece.ntua.gr/en/undergraduate/courses/3287)
 
 <p align="center">
-  <img src="etc/ai logo.png" alt="AI's Custom Image" width="300" height="270" />
+  <img src="etc/ai logo.png" alt="AI's Custom Image" width="270" height="270" />
 </p>
 
 ## Laboratory 1: Search algorithms
