@@ -1,11 +1,23 @@
 ## [ECE @NTUA](https://www.ece.ntua.gr/en/undergraduate/info) [Artificial Intelligence](https://www.ece.ntua.gr/en/undergraduate/courses/3287)
 
-## First exercise:
-The target of this laboratory exercise is the deployment of searching alogrithms and best path discovery in N * N mazes.
+## Laboratory 1: Search algorithms
+1. Maze generation algorithms
+2. Shortest path algorithms (A*, Dijkstra, Best First, Heuristic functions)
+3. Shortest path algorithms performance comparison
+4. Alpha-Beta Pruning
+5. Interactive grids for the Shortest paths algorithms.
 
-## Second exercise:
+## Laboratory 2: Recommendation System with Prolog 
+1. Study of Metadata, Creation of the world and Prolog queries. 
+2. Recommendation system based on the characteristics of a movie.
+3. User ratings, model training and movie rating forecasting
 
-## Third exercise:
+## Laboratory 3: Recommendation System with Decision Trees
+1. Set values
+2. Rating based chart comparisons
+3. Preprocessing values & CART Algorithm
+4. CART Algorithm, Custom CART Algorithm & Decision Tree Algorithm comparison
+5. Random Forest Implementations & Comparisons
 
 ## Environment of development:
 Colaboratory, or “Colab” for short, is a product from Google Research. Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education. Colab allows you to use and share Jupyter notebooks with others without having to download, install, or run anything. Colab also offers access free of charge to computing resources including GPUs. Jupyter is the open source project on which Colab is based. 
