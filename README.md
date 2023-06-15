@@ -9,11 +9,11 @@
 2. Shortest path algorithms (A*, Dijkstra, Best First, Heuristic functions)
 3. Shortest path algorithms performance comparison
 4. Alpha-Beta Pruning
-5. Interactive grids for the Shortest paths algorithms.
+5. Interactive grids for the Shortest paths algorithms
 
 ## Laboratory 2: Recommendation System with Prolog 
-1. Study of Metadata, Creation of the world and Prolog queries. 
-2. Recommendation system based on the characteristics of a movie.
+1. Study of Metadata, Creation of the world and Prolog queries
+2. Recommendation system based on the characteristics of a movie
 3. User ratings, model training and movie rating forecasting
 
 ## Laboratory 3: Recommendation System with Decision Trees
